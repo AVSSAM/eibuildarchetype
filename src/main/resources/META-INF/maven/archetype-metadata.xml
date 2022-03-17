@@ -86,7 +86,7 @@
         		</fileSet>
 		    </fileSets>
 	     </module>
-	     <module id="${rootArtifactId}ConnnectorExporter" dir="__rootArtifactId__ConnnectorExporter" name="${rootArtifactId}ConnnectorExporter">
+	     <module id="${rootArtifactId}ConnectorExporter" dir="__rootArtifactId__ConnectorExporter" name="${rootArtifactId}ConnectorExporter">
 		    <fileSets>
 		    	<fileSet>
             			<directory>/</directory>

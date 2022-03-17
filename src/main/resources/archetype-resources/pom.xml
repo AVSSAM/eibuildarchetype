@@ -26,7 +26,7 @@
     
     <modules>
     	<module>${rootArtifactId}RegistryResources</module>
-    	<module>${rootArtifactId}ConnnectorExporter</module>
+    	<module>${rootArtifactId}ConnectorExporter</module>
     	<module>${rootArtifactId}Configs</module>
     	<module>${rootArtifactId}CompositeExporter</module>
     </modules>
